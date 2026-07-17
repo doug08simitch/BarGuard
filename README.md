@@ -118,6 +118,3 @@ enable.theft=true
 - Customer counting reports a point-in-time snapshot at each interval, not a running total of unique visitors.
 - All detection runs on CPU via OpenCV's DNN backend — no GPU acceleration configured.
 
-## License
-
-*(add your license here)*
